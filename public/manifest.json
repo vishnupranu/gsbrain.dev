@@ -1,0 +1,16 @@
+{
+  "name": "GSBrain.dev",
+  "short_name": "GSBrain",
+  "description": "AI-Powered Software Building Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#072849",
+  "theme_color": "#0c8ee9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
