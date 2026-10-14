@@ -1,0 +1,2 @@
+# gsbrain.dev
+gsminds
